@@ -2,7 +2,7 @@
 
 A modern Android app built with **Jetpack Compose** that displays a list of academic courses using **Material 3 Design**, **expandable cards**, and **smooth animations**.
 
-## 👤 Developer Info
+##  Developer Info
 
 | Name             | ID           | Section |
 |------------------|--------------|---------|
