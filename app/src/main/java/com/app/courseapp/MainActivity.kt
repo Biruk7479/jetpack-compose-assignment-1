@@ -6,9 +6,9 @@ import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
 import androidx.compose.ui.Modifier
-import com.example.courseapp.ui.theme.CourseAppTheme
 import com.app.courseapp.data.CourseData.sampleCourses
 import com.app.courseapp.ui.screens.CourseListScreen
+import com.app.courseapp.ui.theme.CourseAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

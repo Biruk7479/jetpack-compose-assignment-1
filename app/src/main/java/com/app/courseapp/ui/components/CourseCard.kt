@@ -14,7 +14,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.app.courseapp.R
 import android.content.res.Configuration
-import com.example.courseapp.ui.theme.CourseAppTheme
+import com.app.courseapp.ui.theme.CourseAppTheme
 
 @Composable
 fun CourseCard(course: com.app.courseapp.data.Course) {
@@ -86,7 +86,7 @@ fun CourseCard(course: com.app.courseapp.data.Course) {
 @Preview(showBackground = true, uiMode = Configuration.UI_MODE_NIGHT_YES)
 @Composable
 fun CourseCardPreview() {
-    CourseAppTheme {
+    CourseAppTheme{
         CourseCard(
             course = com.app.courseapp.data.Course(
                 title = "Introduction to Programming",
