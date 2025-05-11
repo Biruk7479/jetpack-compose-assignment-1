@@ -8,7 +8,7 @@ A modern Android app built with **Jetpack Compose** that displays a list of acad
 |------------------|--------------|---------|
 | Biruk Ayalew  | UGR/6137/15  | 04      |
 
-## ✨ Key Features
+##  Key Features
 
 -  List of courses with title, code, and credit hours  
 -  Expandable cards showing description and prerequisites  
