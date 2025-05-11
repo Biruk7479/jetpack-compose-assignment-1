@@ -1,0 +1,52 @@
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+*.iml
+
+# IntelliJ/Android Studio project files
+.idea/
+*.ipr
+*.iws
+
+# Keystore files (very important for security!)
+*.jks
+*.keystore
+
+# Log and cache files
+*.log
+.cxx/
+.externalNativeBuild/
+captures/
+*.hprof
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Packaging
+*.apk
+*.ap_
+*.dex
+*.aar
+
+# Jetpack Compose compiler cache
+.kotlinc/
+
+# Temporary/swap files
+*.swp
+*.swo
+*.tmp
